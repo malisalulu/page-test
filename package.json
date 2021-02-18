@@ -1,9 +1,9 @@
 {
-  "name": "lilu-dumi-test1",
+  "name": "page-test",
   "version": "1.0.0",
   "description": "自己的第一个dumi组件库",
   "keywords": [
-    "lilu-dumi-test1"
+    "page-test"
   ],
   "author": "lilu",
   "repository": {
