@@ -6,6 +6,7 @@
     "page-test"
   ],
   "author": "lilu",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/malisalulu/page-test.git"
