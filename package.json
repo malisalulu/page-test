@@ -1,7 +1,16 @@
 {
   "private": true,
-  "name": "page-test",
+  "name": "lilu-dumi-test1",
   "version": "1.0.0",
+  "description": "自己的第一个dumi组件库",
+  "keywords": [
+    "lilu-dumi-test1"
+  ],
+  "author": "lilu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malisalulu/page-test.git"
+  },
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
